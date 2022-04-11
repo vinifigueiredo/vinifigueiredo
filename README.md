@@ -1,4 +1,4 @@
-Oá!! Eu sou o Vinícius Figueiredo 👋
+Oá!!! Eu sou o Vinícius Figueiredo 👋
 
 
 - 🔭 Atualmente estou em busca de uma oportunidade de estágio na área da Tecnologia da Informação
