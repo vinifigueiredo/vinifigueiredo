@@ -2,7 +2,7 @@ Oá!! Eu sou o Vinícius Figueiredo 👋
 
 
 - 🔭 Atualmente estou em busca de uma oportunidade de estágio na área da Tecnologia da Informação
-- 🌱 Estou aprendendo linguegens de programação e também de marcação de texto
+- 🌱 Estou aprendendo linguagens de programação e também de marcação de texto
 - 👯 Estou procurando colaboorar em projetos e desafios de uma empresa
 - 🤔 Estou procurando ajuda para conseguir um estágio
 - 📫 viniciuscruzcontato@gmail.com
