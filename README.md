@@ -7,7 +7,7 @@ Oá!!! Eu sou o Vinícius Figueiredo 👋
 - 🤔 Estou procurando ajuda para conseguir um estágio
 - 📫 viniciuscruzcontato@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Apaixonado por tecnologia e startups. Gosto muito de formula 1. Jogo futebol. Pretendo correr a São Silvestre - 2022 com Meu Pai 
+- ⚡ Curiosidade: Apaixonado por tecnologia e startups. Gosto muito de formula 1. Jogo futebol. Gosto de corrida. 
 
 <div align="center">
   <a href="https://github.com/vinifigueiredo">
